@@ -1,3 +1,6 @@
+![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/799px-Jenkins_logo_with_title.svg.png)
+
+
 # Jenkinstut
 
 The purpose of this repo is to aid new beginners in learning more about the various solutions that Jenkins provides.
