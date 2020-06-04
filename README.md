@@ -3,7 +3,8 @@
 
 # Jenkinstut
 
-The purpose of this repo is to aid new beginners in learning more about the various solutions that Jenkins provides.
+Jenkins is an open source test server that allows the provisioning of continuous integration.It usually run as a standalone application in the built-in Java servlet app server (Jetty) and ran in docker. The purpose of this repo is to aid new beginners in learning more about the various solutions that Jenkins provides.
+
 
 ## Table of Contents
 
