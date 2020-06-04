@@ -13,11 +13,11 @@ The purpose of this repo is to aid new beginners in learning more about the vari
 
 ## Blogs
 
-- 
+- https://www.jenkins.io/node/
 
-- 
+- https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-tutorial/
 
-- 
+- https://www.infoworld.com/article/3239666/what-is-jenkins-the-ci-server-explained.html
 
 
 
