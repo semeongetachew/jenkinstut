@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/799px-Jenkins_logo_with_title.svg.png)
+![Image of Jenkins](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/799px-Jenkins_logo_with_title.svg.png)
 
 
 # Jenkinstut
@@ -9,7 +9,7 @@ The purpose of this repo is to aid new beginners in learning more about the vari
 
 - [About](#About)
 - [Blogs](#Blogs)
-- [Youtube Channels](#YoutubeChannels)
+- [Youtube Content](#YoutubeContent)
 - [Books](#Books)
 - [Support](#support)
 - [Contributing](#contributing)
@@ -36,7 +36,7 @@ by Len Bass, Ingo Weber, Liming Zhu
 - Site Reliability Engineering
 by Niall Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff 
 
-## Youtube Channels
+## Youtube Content
 
 - https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ
 
