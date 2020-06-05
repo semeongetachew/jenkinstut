@@ -27,10 +27,8 @@ Jenkins is an open source test server that allows the provisioning of continuous
 
 - The DevOps HandBook
 by Gene Kim, Jez Humble, John Willis, and Patrick, Debois 
-
 - DevOps: A Software Architect’s Perspective
 by Len Bass, Ingo Weber, Liming Zhu
-
 - Site Reliability Engineering
 by Niall Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff 
 
