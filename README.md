@@ -20,8 +20,6 @@ Jenkins is an open source test server that allows the provisioning of continuous
 - https://www.jenkins.io/node/
 - https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-tutorial/
 - https://www.infoworld.com/article/3239666/what-is-jenkins-the-ci-server-explained.html
-- https://www.youtube.com/watch?v=vuzQy33mNRA
-
 
 
 
@@ -39,10 +37,10 @@ by Niall Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff
 ## Youtube Content
 
 - https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ
-
 - https://www.youtube.com/watch?v=MnyvgFDh-kw
-
 - https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A/featured
+- https://www.youtube.com/watch?v=vuzQy33mNRA
+
 
 ## Support
 
