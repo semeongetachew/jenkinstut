@@ -18,10 +18,9 @@ Jenkins is an open source test server that allows the provisioning of continuous
 ## Blogs
 
 - https://www.jenkins.io/node/
-
 - https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-tutorial/
-
 - https://www.infoworld.com/article/3239666/what-is-jenkins-the-ci-server-explained.html
+- https://www.youtube.com/watch?v=vuzQy33mNRA
 
 
 
